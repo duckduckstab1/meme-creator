@@ -8,7 +8,7 @@ ruby '3.0.2'
 
 gem 'sinatra', '~> 2.0'
 gem 'shotgun'
-gem 'dalli', '~> 2.0'
+gem 'dalli', '~> 3.2'
 gem 'rack-cache'
 gem 'memcachier'
 gem 'open_uri_redirections'
